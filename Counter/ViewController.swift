@@ -1,7 +1,4 @@
-//
-//  ViewController.swift
-//  Counter
-//
+
 //  Created by Lisa Alisova on 08.11.2024.
 //
 
